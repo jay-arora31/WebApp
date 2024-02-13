@@ -6,7 +6,6 @@
 mainproject/
 │
 ├── webapp/
-│   ├── migrations/
 │   ├── admin.py
 │   ├── app.py
 │   ├── models.py
@@ -66,3 +65,12 @@ $ python manage.py runserver
 
 
 ```
+
+
+### Output
+
+![image](https://github.com/jay-arora31/WebApp/assets/68243425/12b9e054-0e95-41db-9119-b72ca5fcc595)
+
+![image](https://github.com/jay-arora31/WebApp/assets/68243425/f8b94863-7343-4a7a-b006-af6668446213)
+
+![image](https://github.com/jay-arora31/WebApp/assets/68243425/786b0a3c-493d-434c-abee-0e6b9cd07415)
